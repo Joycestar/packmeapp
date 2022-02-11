@@ -1,1 +1,1 @@
-web: sh.streamlit_setup.sh && streamlit run packmeapp.py
+web: sh streamlit_setup.sh && streamlit run packmeapp.py
