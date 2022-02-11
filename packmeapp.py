@@ -1,8 +1,5 @@
 import streamlit as st
 from PIL import Image
-img = Image.open("packme.png")
-
-st.image(img, width=205)
 
 st.title("welcome to pack-me moving company")
 st.subheader("Giving you a stress free relocation")
