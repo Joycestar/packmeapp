@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-img = Image.open("packme.png")
+img = Image.open("joy.png")
 
 st.image(img, width=205)
 
